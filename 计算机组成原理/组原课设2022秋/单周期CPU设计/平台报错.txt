@@ -1,0 +1,2 @@
+CLKs     PC           IR           PCerr  Werr      LED          RegW  RDin         MemW  MDin         PCr          IRr          LEDr         RegWr RDinr        MemWr MDinr
+0032     00000054     00900533     10     00000     80000000     1     20000000     0     00000000     00200054     00900533     80000000     1     20000000     0     20000000    Error!
